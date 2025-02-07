@@ -2,3 +2,9 @@
 *.gpkg-wal 
 .DS_Store
 */sources/*
+*/tiles/*
+*.mbtiles
+*.tif*
+*.tiff*
+*.qgz
+*.vrt
