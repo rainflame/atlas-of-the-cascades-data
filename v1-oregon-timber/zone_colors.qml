@@ -3,7 +3,7 @@
   <flags>
     <Identifiable>1</Identifiable>
     <Removable>1</Removable>
-    <Searchable>1</Searchable>
+    <Searchable>0</Searchable>
     <Private>0</Private>
   </flags>
   <temporal mode="0" enabled="0" fetchMode="0">
@@ -135,23 +135,23 @@
       </minMaxOrigin>
       <colorPalette>
         <paletteEntry value="6" color="#ccc0a1" label="6" alpha="255"/>
-        <paletteEntry value="7" color="#aea877" label="7" alpha="255"/>
-        <paletteEntry value="8" color="#9f9f9f" label="8" alpha="255"/>
+        <paletteEntry value="7" color="#d6cb7b" label="7" alpha="255"/>
+        <paletteEntry value="8" color="#6d6d6d" label="8" alpha="255"/>
         <paletteEntry value="9" color="#9e556b" label="9" alpha="255"/>
-        <paletteEntry value="10" color="#c57d5b" label="10" alpha="255"/>
+        <paletteEntry value="10" color="#cf8461" label="10" alpha="255"/>
         <paletteEntry value="11" color="#9cb29a" label="11" alpha="255"/>
         <paletteEntry value="12" color="#71644a" label="12" alpha="255"/>
         <paletteEntry value="13" color="#552b5d" label="13" alpha="255"/>
-        <paletteEntry value="14" color="#679e6c" label="14" alpha="255"/>
-        <paletteEntry value="15" color="#a9a363" label="15" alpha="255"/>
-        <paletteEntry value="17" color="#6a0406" label="17" alpha="255"/>
-        <paletteEntry value="19" color="#9979a4" label="19" alpha="255"/>
-        <paletteEntry value="20" color="#596737" label="20" alpha="255"/>
-        <paletteEntry value="21" color="#3f0809" label="21" alpha="255"/>
-        <paletteEntry value="22" color="#18596f" label="22" alpha="255"/>
-        <paletteEntry value="23" color="#553973" label="23" alpha="255"/>
-        <paletteEntry value="25" color="#bb6e77" label="25" alpha="255"/>
-        <paletteEntry value="30" color="#cbc555" label="30" alpha="255"/>
+        <paletteEntry value="14" color="#558058" label="14" alpha="255"/>
+        <paletteEntry value="15" color="#d1c662" label="15" alpha="255"/>
+        <paletteEntry value="17" color="#bb0006" label="17" alpha="255"/>
+        <paletteEntry value="19" color="#b97fad" label="19" alpha="255"/>
+        <paletteEntry value="20" color="#8dbbc9" label="20" alpha="255"/>
+        <paletteEntry value="21" color="#570b0d" label="21" alpha="255"/>
+        <paletteEntry value="22" color="#294e92" label="22" alpha="255"/>
+        <paletteEntry value="23" color="#5e3565" label="23" alpha="255"/>
+        <paletteEntry value="25" color="#aa375e" label="25" alpha="255"/>
+        <paletteEntry value="30" color="#b4d596" label="30" alpha="255"/>
       </colorPalette>
       <colorramp name="[source]" type="gradient">
         <Option type="Map">
